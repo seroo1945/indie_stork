@@ -45,3 +45,5 @@ Pliki logo są rastrowymi wersjami zaakceptowanego kierunku graficznego, nie rę
 
 ## Update
 - The Runeshatter section now uses the user-provided key art as the main game presentation image.
+
+- Updated project naming on the website from Boardgame Designer Tycoon to Board Game Publisher Tycoon, and replaced the project image with the provided key art.
