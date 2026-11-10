@@ -41,3 +41,7 @@ Runeshatter, Project Farm i Boardgame Designer Tycoon są oznaczone jako **w pro
 ## Uwaga
 
 Pliki logo są rastrowymi wersjami zaakceptowanego kierunku graficznego, nie ręcznie przerysowanymi plikami wektorowymi.
+
+
+## Update
+- The Runeshatter section now uses the user-provided key art as the main game presentation image.
