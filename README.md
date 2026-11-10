@@ -52,6 +52,4 @@ Pliki logo są rastrowymi wersjami zaakceptowanego kierunku graficznego, nie rę
 
 - Replaced the Project Farm website artwork again using the corrected PNG source and refreshed the exported JPG asset used on the page.
 
-
-## Fix v8
-Runeshatter image link is absolutely positioned inside the existing fixed-height artwork container. This prevents expanding the card. No image scale animation.
+- Replaced the Project Farm artwork with the newest provided key art and refreshed exported website assets.
