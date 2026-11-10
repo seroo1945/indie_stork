@@ -14,15 +14,3 @@
 @media(max-width:720px){.container{width:min(100% - 36px,1180px)}.site-header{height:72px}.brand{font-size:14px}.brand img{width:38px;height:38px}.desktop-nav{gap:14px}.desktop-nav a{font-size:12px}.hero-grid{grid-template-columns:1fr;padding-top:56px;padding-bottom:48px}.hero h1{font-size:clamp(46px,10vw,65px)}.hero-art{height:420px;max-width:520px;width:100%;margin:auto}.hero-copy{max-width:620px}.hero-bottom{padding-bottom:15px}.section-padding{padding:78px 0}.about-grid{display:block}.about-grid .section-side{display:flex;align-items:center}.quote-symbol{display:none}.values{grid-template-columns:repeat(3,1fr);gap:12px}.section-top{display:block}.section-aside{margin-top:15px}.games-grid{grid-template-columns:1fr}.game-card{display:grid;grid-template-columns:43% 57%}.game-visual{height:100%;min-height:240px}.game-meta{flex-direction:row;flex-wrap:wrap}.game-details p{min-height:0}.contact-grid{grid-template-columns:1fr}.contact-illustration{width:260px}.footer-inner{flex-wrap:wrap;justify-content:space-between;padding:22px 0}.footer p:last-of-type{margin-left:0}.footer p:nth-of-type(1){flex-basis:100%;order:3}.back-top{margin-left:auto}}
 @media(max-width:500px){.desktop-nav{display:none}.language-switch{font-size:13px}.hero{min-height:0}.hero-grid{padding-top:44px}.hero h1{font-size:45px}.hero-lead{font-size:15px}.hero-art{height:340px}.art-caption{font-size:10px;bottom:-12px;right:4%}.button{font-size:12px;padding:13px 15px;gap:12px}.origin-note{font-size:11px}.hero-bottom{display:none}.section-heading{font-size:37px}.values{grid-template-columns:1fr;gap:20px}.values>div{display:grid;grid-template-columns:39px 1fr;column-gap:12px}.values .value-icon{grid-row:span 2;margin:0}.game-card{display:block}.game-visual{height:225px;min-height:0}.game-meta{flex-direction:row}.game-details{padding:25px}.philosophy{padding:80px 14px}.philosophy h2{font-size:37px}.footer-inner{gap:16px}.footer-brand{font-size:12px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}
-a.game-visual {
-    display: block;
-    cursor: pointer;
-}
-
-a.game-visual:hover img {
-    transform: scale(1.04);
-}
-
-a.game-visual img {
-    transition: transform 0.3s ease;
-}
