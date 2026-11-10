@@ -49,3 +49,5 @@ Pliki logo są rastrowymi wersjami zaakceptowanego kierunku graficznego, nie rę
 - Updated project naming on the website from Boardgame Designer Tycoon to Board Game Publisher Tycoon, and replaced the project image with the provided key art.
 
 - Replaced the Project Farm placeholder illustration with the provided key art in the website assets and game section.
+
+- Replaced the Project Farm website artwork again using the corrected PNG source and refreshed the exported JPG asset used on the page.
