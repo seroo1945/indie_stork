@@ -1,0 +1,1 @@
+Aby podłączyć link Runeshatter, w pliku index.html zamień https://ADRES-STRONY-GRY w DWÓCH miejscach na prawdziwy URL. Następnie wgraj index.html i styles.css do repozytorium GitHub Pages. W paczce znajduje się też komplet strony v6.
