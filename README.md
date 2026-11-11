@@ -53,3 +53,6 @@ Pliki logo są rastrowymi wersjami zaakceptowanego kierunku graficznego, nie rę
 - Replaced the Project Farm website artwork again using the corrected PNG source and refreshed the exported JPG asset used on the page.
 
 - Replaced the Project Farm artwork with the newest provided key art and refreshed exported website assets.
+
+
+Platform badges added: Runeshatter Android/iOS; Project Farm Android/iOS; Board Game Publisher Tycoon PC/Mac/Android/iOS.
